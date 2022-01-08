@@ -30,7 +30,7 @@ namespace prueba
             else
                 return true;
 
-            if (age < 2 | age > 128)
+            if (age < 2 | age > 120)
             {
                 return false;
             }
